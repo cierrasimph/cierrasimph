@@ -5,10 +5,10 @@ I'm [Your Name], an aspiring Python developer exploring the vast world of progra
 
 💻 My Tech Stack:
 Programming Languages: Python
-Web Development: Flask, Django
-Databases: SQLite, MySQL
-Data Analysis: Pandas, NumPy
-Version Control: Git, GitHub
+- Web Development: Flask, Django
+- Databases: SQLite, MySQL
+- Data Analysis: Pandas, NumPy
+- Version Control: Git, GitHub
   
 🌱Currently Learning:
 Working with Flask and Django frameworks for web development.
