@@ -1,6 +1,8 @@
 ### Hello, 👋
 I'm Lev, an aspiring Python developer exploring the vast world of programming. On a journey to acquire new skills and experience, I'm keen on growing in the realms of web development and data analysis.
 
+<iframe src="https://giphy.com/embed/tbRcseHU5ieXAEhlQw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/-TWS--happy-party-celebration-tbRcseHU5ieXAEhlQw">via GIPHY</a></p>
+
 💻 My Tech Stack:
 - Programming Languages: Python
 - Web Development: Flask, Django
