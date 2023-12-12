@@ -1,5 +1,5 @@
 ### Hello, 👋
-I'm [Your Name], an aspiring Python developer exploring the vast world of programming. On a journey to acquire new skills and experience, I'm keen on growing in the realms of web development and data analysis.
+I'm Lev, an aspiring Python developer exploring the vast world of programming. On a journey to acquire new skills and experience, I'm keen on growing in the realms of web development and data analysis.
 
 💻 My Tech Stack:
 - Programming Languages: Python
